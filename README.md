@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-  I am sameer :slightly_smiling_face: student of mechanical engineering,covid brought me an oppurtunity to look ito IT industry and i started to looking for a skill to learn ,web development caught my attention and gradually it became my interest.
+<p style="text-align:center">  I am sameer :slightly_smiling_face: student of mechanical engineering,covid brought me an oppurtunity to look ito IT industry and i started to looking for a skill to learn ,web development caught my attention and gradually it became my interest.</p>
