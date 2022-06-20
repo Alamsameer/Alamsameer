@@ -1,8 +1,5 @@
-<!--
-**Alamsameer/Alamsameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## whoami
 
-Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on MERN projects
 - 🌱 I’m currently learning web Development and Cybersecurity
 - 👯 I’m looking to collaborate on React and Node Js based project
