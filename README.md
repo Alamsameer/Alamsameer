@@ -1,7 +1,7 @@
 ## whoami
 
 - 🔭 I’m currently working on MERN projects
-- 🌱 I’m currently learning web Development and Cybersecurity
+- 🌱 I’m currently preparing Data Structure and algorithm with python
 - 👯 I’m looking to collaborate on React and Node Js based project
 
 ## 📫 How to reach me: ...
