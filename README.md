@@ -1,9 +1,10 @@
 ## whoami
 
-- 🔭 I’m currently working on MERN projects
-- 🌱 I’m currently preparing Data Structure and algorithm with python
-- 👯 I’m looking to collaborate on React and Node Js based project
+🧙‍♂️ Who Am I?
+Greetings, fellow inhabitants of the digital realm! 🌐 I'm sameer, your friendly neighborhood code sorcerer on a mission to turn bits and bytes into profitable potions. By day, I'm a problem-solving maestro with a business mindset sharper than a dragon's tooth. By night, I'm on a deep dive into the software sea, quietly plotting to make a real impact without waking the coding kraken.
 
+## DeepDive Declaration
+Currently, I'm plunging into the software sea like a digital Jacques Cousteau. No barking, just the silent determination to make a real impact. I'm not here to make noise; I'm here to create waves. So, if you're on the lookout for someone to turn your tech aspirations into a tsunami of success, I'm your undercover superhero. Let's make waves, not noise! 🌊💻✨ 
 ## 📫 How to reach me: ...
 
 <div id="badges">
@@ -17,21 +18,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=alamsameer&style=flat-square&color=blue" alt=""/>
 
-## Top Languages Used
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamsameer)](https://github.com/alamsameer/github-readme-stats)
-
-## skills
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+## one line of code at a time! ✨🚀
 
 
 ## GitHub Stats
