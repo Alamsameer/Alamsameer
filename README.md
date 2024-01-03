@@ -21,11 +21,5 @@ Currently, I'm plunging into the software sea like a digital Jacques Cousteau. N
 ## one line of code at a time! ✨🚀
 
 
-## GitHub Stats
-![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=alamsameer&show_icons=true&theme=radical)
-
-
-
-
 
 
